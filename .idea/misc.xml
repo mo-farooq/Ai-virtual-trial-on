@@ -3,5 +3,12 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.13" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (Ai-virtual-trial-on)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (Ai-virtual-trial-on)" project-jdk-type="Python SDK" />
+  <component name="PyPackaging">
+    <option name="earlyReleasesAsUpgrades" value="true" />
+  </component>
+>>>>>>> a0c1b9c0c17e5adbe078237d67409198de7af1b5
 </project>
